@@ -1,12 +1,12 @@
-# Log #100DaysOfExam - [Your exam goal]
+# Log #100DaysOfExam - [70-346 office 365]
 
-The recommended way to log your progress is to place your latest entries at the top. 
+###Day 1:Manage Cloud Identities with window powershell
 
-Following are some examples how this could look like. Feel free to create your own. 
+**Today's Progress**: learned how to hard delete users using powershell
 
-Pull request for your template is most welcome.
 
-----
+
+----------------------------------------------------------------------------------------------------------------------------------
 ### Day 0: 30. February 2016 (Example 1)
 ##### (delete me or comment me out)
 
