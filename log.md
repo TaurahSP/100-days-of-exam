@@ -1,6 +1,6 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
-###Day 1:Manage Cloud Identities with window powershell
+###Day 1(15/03/2018):Manage Cloud Identities with window powershell
 
 **Today's Progress**: learned how to hard delete users using powershell
 
