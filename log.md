@@ -1,5 +1,11 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day 2 (16/03/2018) 
+
+**Today's Progress**:bulk assign license to user and bulk create user using poweshell
+
+-------
+
 ###Day 1(15/03/2018):Manage Cloud Identities with window powershell
 
 **Today's Progress**: learned how to hard delete users using powershell
