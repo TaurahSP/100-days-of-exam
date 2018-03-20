@@ -1,5 +1,23 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day 5 (20/03/2018)
+
+**Today's Progress**:DNS Record 
+
+-------
+
+###Day 4 (18/03/2018)
+
+**Today's Progress**:Revision started
+
+-------
+
+###Day 3 (17/03/2018)
+
+**Today's Progress**:Adding domain to Tenant
+
+-------
+
 ###Day 2 (16/03/2018) 
 
 **Today's Progress**:bulk assign license to user and bulk create user using poweshell
