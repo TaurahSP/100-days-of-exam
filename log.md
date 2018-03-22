@@ -1,5 +1,11 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day6 (22/03/2018)
+
+**Today's Progress**:Monitoring and trobleshooting offie 365 availability and usage
+
+Resources: pluralsight
+
 ###Day 5 (20/03/2018)
 
 **Today's Progress**:DNS Record 
