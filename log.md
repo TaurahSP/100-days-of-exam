@@ -1,5 +1,12 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day7 (23/03/2018)
+
+**Today's Progress**:Implement and manage identities using AD connect for office 365
+
+Resources: pluralsight
+
+
 ###Day6 (22/03/2018)
 
 **Today's Progress**:Monitoring and trobleshooting offie 365 availability and usage
