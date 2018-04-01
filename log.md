@@ -1,5 +1,11 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day 8(01/04/5018)
+
+**Today's Progress**:Managing cloud identities in office 365
+
+Resources: pluralsight
+
 ###Day7 (23/03/2018)
 
 **Today's Progress**:Implement and manage identities using AD connect for office 365
