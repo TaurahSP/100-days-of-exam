@@ -1,5 +1,11 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
+###Day 9(03/04/5018)
+
+**Today's Progress**:Managing cloud identities in office 365
+
+Resources: pluralsight(https://www.pluralsight.com/courses/sso-federated-identities-managing-implementing)
+
 ###Day 8(01/04/5018)
 
 **Today's Progress**:Managing cloud identities in office 365
