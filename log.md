@@ -1,6 +1,10 @@
 # Log #100DaysOfExam - [70-346 office 365]
 
-###Day 9(03/04/5018)
+###Day 10(10/04/2018)
+
+**Today's Progress**:Accelerated webinar for office 365 Exam
+
+###Day 9(03/04/2018)
 
 **Today's Progress**:Managing cloud identities in office 365
 
